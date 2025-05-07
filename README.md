@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?leh60245=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leh60245&layout=compact)
 
 <!--
 **leh60245/leh60245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
