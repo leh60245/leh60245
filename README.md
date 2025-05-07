@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leh60245&layout=compact&hide=jupyter%20notebook)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leh60245)](https://solved.ac/leh60245/)
+
 <!--
 **leh60245/leh60245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
